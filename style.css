@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+* {
+    box-sizing: border-box;
+  }
+
+body {
+    
+    background: linear-gradient(180deg, rgba(91,175,77,1) 0%, rgba(81,157,69,1) 50%, rgba(170,172,54,1) 100%) no-repeat;
+    height: 100vh;
+}
+
+
+
+
+
+@media (min-width: 767.98px) {
+    .form-control{
+        width: 400px;
+        margin: 0 auto;
+    }
+}
